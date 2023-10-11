@@ -26,4 +26,5 @@ int main() {
 			getline(cin, response);
 		}
 	}
+	return 0;
 }
